@@ -1,4 +1,5 @@
-<div align="center">  <!-- ANIMATED BANNER --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FBE&height=200&section=header&text=Tushar%20Saini&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Builder.%20Coder.%20Creator.&descAlignY=60&descAlign=50" width="100%"/>
+<div align="center">  <!-- ANIMATED BANNER --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:00FFFF,50:7B2FFF,75:FF00FF,100:000000&height=250&section=header&text=Tushar%20Saini&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=DEVELOPER%20%7C%20BUILDER%20%7C%20CREATOR&descAlignY=65&descSize=20"/>
+
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Welcome+to+my+digital+universe!;💻+I+build+cool+stuff+that+matters;⚡+Code+%7C+Create+%7C+Conquer" />
